@@ -1,8 +1,22 @@
-# React + Vite
+Project: Travel Planner
+Travel Planner is a web application that helps users plan and organize their trips. Users can securely sign in using Firebase Authentication, create travel plans, manage their itineraries, and track their travel budgets through a simple and user-friendly interface.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features:
+Firebase Authentication
+Create, edit, and delete trips
+Dashboard to manage trips
+Budget tracking
+Trip analytics
 
-Currently, two official plugins are available:
+Tech Stack:
+React
+Vite
+Tailwind CSS
+Firebase Authentication
+Local Storage
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Installation:
+npm install
+npm run dev
+nnnpm run dev
+```
